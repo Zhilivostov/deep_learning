@@ -1,1 +1,1 @@
-# deep_learning
+# tasks on course Deep learning на пальцах
